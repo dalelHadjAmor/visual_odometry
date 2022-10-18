@@ -1,0 +1,5 @@
+netifaces==0.11.0
+rospkg==1.4.0
+pyyaml==6.0
+image-similarity-measures==0.3.5
+opencv-python==4.5.5.64
